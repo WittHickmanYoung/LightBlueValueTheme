@@ -1,0 +1,22 @@
+{
+	"name": "lightbluevalue-theme",
+	"displayName": "%displayName%",
+	"description": "%description%",
+	"categories": [ "Themes" ],
+	"version": "1.0.0",
+	"publisher": "WittHickmanYoung",
+	"engines": { "vscode": "*" },
+	"contributes": {
+		"themes": [
+			{
+				"id": "Light Blue Value",
+				"label": "Light Blue Value",
+				"uiTheme": "vs-dark",
+				"path": "./themes/light_blue_value.json"
+			}
+		],
+		"iconThemes": [
+			
+		]
+	}
+}
